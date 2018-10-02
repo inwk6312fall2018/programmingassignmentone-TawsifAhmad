@@ -6,7 +6,7 @@ def change_ip(file_name):
 	file=open(file_name)
 	list=[]
 	list2=[]	#contains all ip addresses
-	list3=[]	#contains list of elements in ip add
+	list3=[]	#contains list of elements in ip address
 	list4=[]	#list of updated ip address  
 	for line in file:
 		line=line.strip()

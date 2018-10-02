@@ -23,7 +23,7 @@ def int_and_int_name(file_name):
 	return list4
 
 """THIS FUNCTION CHANGE THE CONFIGURATION AND RETURN A DICTIONARY CONTAINING interfacce AS A KEY and NAMEIF,VLAN,IPADDRESS,SUBNET MASK
- LIST AS THE CORRESPONDING VALUES""""
+   LIST AS THE CORRESPONDING VALUES"""
 
 def list_ifname_ip(file_name):
 	file=open(file_name)

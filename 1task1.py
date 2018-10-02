@@ -1,4 +1,4 @@
-""" THIS IS THE FUNCTION WHICH WILL RETURN A LIST OF  (INTERFACE NAME,"nameif"- VALUE
+""" THIS IS THE FUNCTION WHICH WILL RETURN A LIST OF INTERFACE NAME,nameif- VALUE"""
 def int_and_int_name(file_name):
 	file=open(file_name)
 	list1=[]
